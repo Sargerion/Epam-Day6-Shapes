@@ -1,0 +1,89 @@
+23 дек. 2020 00:20:18,334 [main] INFO  ShapeFileReader - The file -> input_files/quadrangles_input.txt was read,	Result -> [1 2.4 -3.4 5 5.3 -7 8 0.4, 4 2.4 3.4 5 9.3 7 8 0.4, 5 2.4 3q.4 5 r7.3 -7 8 0.4, 6 -2.4 3.4 5 3.3 7e 8 0.4, 7 2.4 3.erreqg4 5 8.3 7 8 0.4, 8 2.4 3.4 5 1.3 7 8 0.4]
+23 дек. 2020 00:20:46,654 [main] INFO  ShapeFileReader - The file -> input_files/quadrangles_input.txt was read,	Result -> [1 2.4 -3.4 5 5.3 -7 8 5.4, 4 2.4 3.4 5 9.3 7 8 1.4, 5 2.4 3q.4 5 r7.3 -7 8 0.4, 6 -2.4 3.4 5 3.3 7e 8 0.25, 7 2.4 3.erreqg4 5 8.3 7 8 0.4, 8 2.4 3.4 5 1.3 7 9 0.4]
+23 дек. 2020 00:21:25,499 [main] INFO  ShapeFileReader - The file -> input_files/quadrangles_input.txt was read,	Result -> [1 2.4 -3.4 5 5.3 -7 8 5.4, 4 2.4 3.4 5 9.3 7 8 1.4, 5 2.4 3q.4 5 r7.3 -7 8 0.4, 6 -2.4 3.4 5 3.3 7e 8 0.25, 7 2.4 3.erreqg4 5 8.3 7 8 0.4, 8 2.4 3.4 5 1.3 7 9 0.4]
+23 дек. 2020 00:21:50,996 [main] INFO  ShapeFileReader - The file -> input_files/quadrangles_input.txt was read,	Result -> [1 2.4 -3.4 5 5.3 -7 8 5.4, 4 2.4 3.4 5 9.3 7 8 1.4, 5 2.4 3.4 5 r7.3 -7 8 0.4, 6 -2.4 3.4 5 3.3 7e 8 0.25, 7 2.4 3.erreqg4 5 8.3 7 8 0.4, 8 2.4 3.4 5 1.3 7 9 0.4]
+23 дек. 2020 00:21:56,102 [main] INFO  ShapeFileReader - The file -> input_files/quadrangles_input.txt was read,	Result -> [1 2.4 -3.4 5 5.3 -7 8 5.4, 4 2.4 3.4 5 9.3 7 8 1.4, 5 2.4 3.4 5 7.3 -7 8 0.4, 6 -2.4 3.4 5 3.3 7e 8 0.25, 7 2.4 3.erreqg4 5 8.3 7 8 0.4, 8 2.4 3.4 5 1.3 7 9 0.4]
+23 дек. 2020 00:53:23,133 [main] INFO  ShapeFileReader - The file -> input_files/quadrangles_input.txt was read,	Result -> [1 2.4 -3.4 5 5.3 -7 8 5.4, 4 2.4 3.4 5 9.3 7 8 1.4, 5 2.4 3.4 5 7.3 -7 8 0.4, 6 -2.4 3.4 5 3.3 7e 8 0.25, 7 2.4 3.erreqg4 5 8.3 7 8 0.4, 8 2.4 3.4 5 1.3 7 9 0.4]
+23 дек. 2020 00:53:23,303 [main] INFO  QuadrangleRepository - Quadrangles added to repository [Quadrangle {
+	quadrangleId = 10ee8ee8-2224-4b21-a5cf-61df3fbfe9d6,	points = [Point2D{x=1.0, y=2.4}, Point2D{x=-3.4, y=5.0}, Point2D{x=5.3, y=-7.0}, Point2D{x=8.0, y=5.4}]
+}, Quadrangle {
+	quadrangleId = 01d4f4da-acc4-4086-a1fe-eaf538b634e9,	points = [Point2D{x=4.0, y=2.4}, Point2D{x=3.4, y=5.0}, Point2D{x=9.3, y=7.0}, Point2D{x=8.0, y=1.4}]
+}, Quadrangle {
+	quadrangleId = 78827c11-2de4-4dac-a54e-826e14e5482f,	points = [Point2D{x=5.0, y=2.4}, Point2D{x=3.4, y=5.0}, Point2D{x=7.3, y=-7.0}, Point2D{x=8.0, y=0.4}]
+}, Quadrangle {
+	quadrangleId = 1775031e-e8f5-48a8-a0c1-e239692867d0,	points = [Point2D{x=8.0, y=2.4}, Point2D{x=3.4, y=5.0}, Point2D{x=1.3, y=7.0}, Point2D{x=9.0, y=0.4}]
+}]
+23 дек. 2020 01:06:24,150 [main] INFO  ShapeFileReader - The file -> input_files/quadrangles_input.txt was read,	Result -> [1 2.4 -3.4 5 5.3 -7 8 5.4, 4 2.4 3.4 5 9.3 7 8 1.4, 5 2.4 3.4 5 7.3 -7 8 0.4, 6 -2.4 3.4 5 3.3 7e 8 0.25, 7 2.4 3.erreqg4 5 8.3 7 8 0.4, 8 2.4 3.4 5 1.3 7 9 0.4]
+23 дек. 2020 01:06:24,289 [main] INFO  QuadrangleRepository - Quadrangle added to repository Quadrangle {
+	quadrangleId = 555e39f4-8741-48df-8221-0a98c8b7f94b,	points = [Point2D{x=1.0, y=2.4}, Point2D{x=-3.4, y=5.0}, Point2D{x=5.3, y=-7.0}, Point2D{x=8.0, y=5.4}]
+}
+23 дек. 2020 01:06:24,289 [main] INFO  QuadrangleRepository - Quadrangle added to repository Quadrangle {
+	quadrangleId = 36767472-5d72-4732-a9f3-04ea02dc13d4,	points = [Point2D{x=4.0, y=2.4}, Point2D{x=3.4, y=5.0}, Point2D{x=9.3, y=7.0}, Point2D{x=8.0, y=1.4}]
+}
+23 дек. 2020 01:06:24,290 [main] INFO  QuadrangleRepository - Quadrangle added to repository Quadrangle {
+	quadrangleId = caef3e21-07d7-4527-8f56-477f66c962a7,	points = [Point2D{x=5.0, y=2.4}, Point2D{x=3.4, y=5.0}, Point2D{x=7.3, y=-7.0}, Point2D{x=8.0, y=0.4}]
+}
+23 дек. 2020 01:06:24,291 [main] INFO  QuadrangleRepository - Quadrangle added to repository Quadrangle {
+	quadrangleId = 124b298c-f6b6-4df3-a378-a7e5bab10c9f,	points = [Point2D{x=8.0, y=2.4}, Point2D{x=3.4, y=5.0}, Point2D{x=1.3, y=7.0}, Point2D{x=9.0, y=0.4}]
+}
+23 дек. 2020 01:06:24,296 [main] INFO  Warehouse - Warehouse created
+23 дек. 2020 01:06:49,240 [main] INFO  ShapeFileReader - The file -> input_files/quadrangles_input.txt was read,	Result -> [1 2.4 -3.4 5 5.3 -7 8 5.4, 4 2.4 3.4 5 9.3 7 8 1.4, 5 2.4 3.4 5 7.3 -7 8 0.4, 6 -2.4 3.4 5 3.3 7e 8 0.25, 7 2.4 3.erreqg4 5 8.3 7 8 0.4, 8 2.4 3.4 5 1.3 7 9 0.4]
+23 дек. 2020 01:06:49,374 [main] INFO  QuadrangleRepository - Quadrangle added to repository Quadrangle {
+	quadrangleId = 925890ef-d4de-420b-b509-edc8b0179a29,	points = [Point2D{x=1.0, y=2.4}, Point2D{x=-3.4, y=5.0}, Point2D{x=5.3, y=-7.0}, Point2D{x=8.0, y=5.4}]
+}
+23 дек. 2020 01:06:49,375 [main] INFO  QuadrangleRepository - Quadrangle added to repository Quadrangle {
+	quadrangleId = f32fa3b9-05ed-4808-a3f4-0f1f543b27c2,	points = [Point2D{x=4.0, y=2.4}, Point2D{x=3.4, y=5.0}, Point2D{x=9.3, y=7.0}, Point2D{x=8.0, y=1.4}]
+}
+23 дек. 2020 01:06:49,376 [main] INFO  QuadrangleRepository - Quadrangle added to repository Quadrangle {
+	quadrangleId = 382575fa-2abb-4496-96cd-ab9be5502fd1,	points = [Point2D{x=5.0, y=2.4}, Point2D{x=3.4, y=5.0}, Point2D{x=7.3, y=-7.0}, Point2D{x=8.0, y=0.4}]
+}
+23 дек. 2020 01:06:49,377 [main] INFO  QuadrangleRepository - Quadrangle added to repository Quadrangle {
+	quadrangleId = d36392ad-5873-42aa-b371-8d2e9341824c,	points = [Point2D{x=8.0, y=2.4}, Point2D{x=3.4, y=5.0}, Point2D{x=1.3, y=7.0}, Point2D{x=9.0, y=0.4}]
+}
+23 дек. 2020 01:06:49,381 [main] INFO  Warehouse - Warehouse created
+23 дек. 2020 01:10:29,687 [main] INFO  ShapeFileReader - The file -> input_files/quadrangles_input.txt was read,	Result -> [1 2.4 -3.4 5 5.3 -7 8 5.4, 4 2.4 3.4 5 9.3 7 8 1.4, 5 2.4 3.4 5 7.3 -7 8 0.4, 6 -2.4 3.4 5 3.3 7e 8 0.25, 7 2.4 3.erreqg4 5 8.3 7 8 0.4, 8 2.4 3.4 5 1.3 7 9 0.4]
+23 дек. 2020 01:10:29,854 [main] INFO  QuadrangleRepository - Quadrangle added to repository Quadrangle {
+	quadrangleId = e9885a65-018d-4b8c-a367-8c96eeefadab,	points = [Point2D{x=1.0, y=2.4}, Point2D{x=-3.4, y=5.0}, Point2D{x=5.3, y=-7.0}, Point2D{x=8.0, y=5.4}]
+}
+23 дек. 2020 01:10:29,854 [main] INFO  QuadrangleRepository - Quadrangle added to repository Quadrangle {
+	quadrangleId = 74610607-cdc7-461e-bdf2-b39b8db6a2ef,	points = [Point2D{x=4.0, y=2.4}, Point2D{x=3.4, y=5.0}, Point2D{x=9.3, y=7.0}, Point2D{x=8.0, y=1.4}]
+}
+23 дек. 2020 01:10:29,855 [main] INFO  QuadrangleRepository - Quadrangle added to repository Quadrangle {
+	quadrangleId = 24232a85-15ce-447a-8fcb-7a2599a13d1e,	points = [Point2D{x=5.0, y=2.4}, Point2D{x=3.4, y=5.0}, Point2D{x=7.3, y=-7.0}, Point2D{x=8.0, y=0.4}]
+}
+23 дек. 2020 01:10:29,855 [main] INFO  QuadrangleRepository - Quadrangle added to repository Quadrangle {
+	quadrangleId = 79e1a762-8785-46be-8224-eab1ae584850,	points = [Point2D{x=8.0, y=2.4}, Point2D{x=3.4, y=5.0}, Point2D{x=1.3, y=7.0}, Point2D{x=9.0, y=0.4}]
+}
+23 дек. 2020 01:10:29,862 [main] INFO  Warehouse - Warehouse created
+23 дек. 2020 01:11:45,224 [main] INFO  ShapeFileReader - The file -> input_files/quadrangles_input.txt was read,	Result -> [1 2.4 -3.4 5 5.3 -7 8 5.4, 4 2.4 3.4 5 9.3 7 8 1.4, 5 2.4 3.4 5 7.3 -7 8 0.4, 6 -2.4 3.4 5 3.3 7e 8 0.25, 7 2.4 3.erreqg4 5 8.3 7 8 0.4, 8 2.4 3.4 5 1.3 7 9 0.4]
+23 дек. 2020 01:11:45,361 [main] INFO  QuadrangleRepository - Quadrangle added to repository Quadrangle {
+	quadrangleId = a8ed41d8-84cf-49f6-8749-2e272153dd31,	points = [Point2D{x=1.0, y=2.4}, Point2D{x=-3.4, y=5.0}, Point2D{x=5.3, y=-7.0}, Point2D{x=8.0, y=5.4}]
+}
+23 дек. 2020 01:11:45,363 [main] INFO  QuadrangleRepository - Quadrangle added to repository Quadrangle {
+	quadrangleId = 655cfbea-d7f2-4334-8df8-751b567a1f9b,	points = [Point2D{x=4.0, y=2.4}, Point2D{x=3.4, y=5.0}, Point2D{x=9.3, y=7.0}, Point2D{x=8.0, y=1.4}]
+}
+23 дек. 2020 01:11:45,364 [main] INFO  QuadrangleRepository - Quadrangle added to repository Quadrangle {
+	quadrangleId = 010b87f4-bfe4-4ded-b414-fe4eb8bd28f9,	points = [Point2D{x=5.0, y=2.4}, Point2D{x=3.4, y=5.0}, Point2D{x=7.3, y=-7.0}, Point2D{x=8.0, y=0.4}]
+}
+23 дек. 2020 01:11:45,365 [main] INFO  QuadrangleRepository - Quadrangle added to repository Quadrangle {
+	quadrangleId = e781407e-692f-40e5-9544-6709e8f8220d,	points = [Point2D{x=8.0, y=2.4}, Point2D{x=3.4, y=5.0}, Point2D{x=1.3, y=7.0}, Point2D{x=9.0, y=0.4}]
+}
+23 дек. 2020 01:11:45,370 [main] INFO  Warehouse - Warehouse created
+23 дек. 2020 01:17:22,443 [main] INFO  ShapeFileReader - The file -> input_files/quadrangles_input.txt was read,	Result -> [1 2.4 -3.4 5 5.3 -7 8 5.4, 4 2.4 3.4 5 9.3 7 8 1.4, 5 2.4 3.4 5 7.3 -7 8 0.4, 6 -2.4 3.4 5 3.3 7e 8 0.25, 7 2.4 3.erreqg4 5 8.3 7 8 0.4, 8 2.4 3.4 5 1.3 7 9 0.4]
+23 дек. 2020 01:17:22,588 [main] INFO  QuadrangleRepository - Quadrangle added to repository Quadrangle {
+	quadrangleId = 9764b4a6-b176-4b3a-98a6-56674f3161cb,	points = [Point2D{x=1.0, y=2.4}, Point2D{x=-3.4, y=5.0}, Point2D{x=5.3, y=-7.0}, Point2D{x=8.0, y=5.4}]
+}
+23 дек. 2020 01:17:22,589 [main] INFO  QuadrangleRepository - Quadrangle added to repository Quadrangle {
+	quadrangleId = 5f5b276a-9ad8-482c-b159-7e6999992799,	points = [Point2D{x=4.0, y=2.4}, Point2D{x=3.4, y=5.0}, Point2D{x=9.3, y=7.0}, Point2D{x=8.0, y=1.4}]
+}
+23 дек. 2020 01:17:22,589 [main] INFO  QuadrangleRepository - Quadrangle added to repository Quadrangle {
+	quadrangleId = 2d33d386-e7c2-442b-b09e-a5d9ba181a9c,	points = [Point2D{x=5.0, y=2.4}, Point2D{x=3.4, y=5.0}, Point2D{x=7.3, y=-7.0}, Point2D{x=8.0, y=0.4}]
+}
+23 дек. 2020 01:17:22,590 [main] INFO  QuadrangleRepository - Quadrangle added to repository Quadrangle {
+	quadrangleId = 01934876-1748-4f58-adff-55a3a4de56fc,	points = [Point2D{x=8.0, y=2.4}, Point2D{x=3.4, y=5.0}, Point2D{x=1.3, y=7.0}, Point2D{x=9.0, y=0.4}]
+}
+23 дек. 2020 01:17:22,804 [main] INFO  Warehouse - Warehouse created
+23 дек. 2020 01:17:39,311 [main] INFO  ShapeFileReader - The file -> input_files/quadrangles_input.txt was read,	Result -> [1 2.4 -3.4 5 5.3 -7 8 5.4, 4 2.4 3.4 5 9.3 7 8 1.4, 5 2.4 3.4 5 7.3 -7 8 0.4, 6 -2.4 3.4 5 3.3 7e 8 0.25, 7 2.4 3.erreqg4 5 8.3 7 8 0.4, 8 2.4 3.4 5 1.3 7 9 0.4]
+23 дек. 2020 01:17:39,494 [main] INFO  QuadrangleRepository - Quadrangle added to repository Quadrangle {
+	quadrangleId = bd042b04-726b-4996-b704-b5307f96ef47,	points = [Point2D{x=1.0, y=2.4}, Point2D{x=-3.4, y=5.0}, Point2D{x=5.3, y=-7.0}, Point2D{x=8.0, y=5.4}]
+}

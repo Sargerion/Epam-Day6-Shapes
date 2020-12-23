@@ -1,0 +1,19 @@
+23 дек. 2020 02:33:28,626 [main] INFO  QuadrangleServiceImpl - Quadrangle -> Quadrangle {
+	quadrangleId = a01b4bed-fedd-474b-a1c8-d26bc2b37155,	points = [Point2D{x=8.0, y=8.0}, Point2D{x=8.0, y=12.0}, Point2D{x=12.0, y=12.0}, Point2D{x=12.0, y=8.0}]
+},	 area -> 16.0
+23 дек. 2020 02:33:28,634 [main] INFO  Warehouse - Info about quadrangle with id->a01b4bed-fedd-474b-a1c8-d26bc2b37155, QuadrangleData{area=16.0, perimeter=16.0}
+23 дек. 2020 02:33:28,634 [main] INFO  Warehouse - Quadrangle's data with id->a01b4bed-fedd-474b-a1c8-d26bc2b37155 was put to warehouse successfully -> QuadrangleData{area=16.0, perimeter=16.0}
+23 дек. 2020 02:33:28,635 [main] INFO  QuadrangleObserver - Area updated,	-> new area 16.0
+23 дек. 2020 02:33:28,635 [main] INFO  QuadrangleServiceImpl - Quadrangle -> Quadrangle {
+	quadrangleId = a01b4bed-fedd-474b-a1c8-d26bc2b37155,	points = [Point2D{x=8.0, y=8.0}, Point2D{x=8.0, y=12.0}, Point2D{x=12.0, y=12.0}, Point2D{x=12.0, y=8.0}]
+},	 perimeter -> 16.0
+23 дек. 2020 02:33:28,636 [main] INFO  Warehouse - Info about quadrangle with id->a01b4bed-fedd-474b-a1c8-d26bc2b37155, QuadrangleData{area=16.0, perimeter=16.0}
+23 дек. 2020 02:33:28,640 [main] INFO  Warehouse - Quadrangle's data with id->a01b4bed-fedd-474b-a1c8-d26bc2b37155 was put to warehouse successfully -> QuadrangleData{area=16.0, perimeter=16.0}
+23 дек. 2020 02:33:28,641 [main] INFO  QuadrangleObserver - Perimeter updated,	-> new perimeter 16.0
+23 дек. 2020 02:33:28,642 [main] INFO  Warehouse - Get copy of warehouse -> {a01b4bed-fedd-474b-a1c8-d26bc2b37155=QuadrangleData{area=16.0, perimeter=16.0}, 4f64b7a2-f3b6-4570-935e-f3d014aa91db=QuadrangleData{area=17.02867404272762, perimeter=19.770787805415814}, 4124f3cd-4ed7-4760-b5b7-525efe9e75e6=QuadrangleData{area=30.63860875710868, perimeter=22.8633267099624}, cbd90f46-d135-4a58-9ac8-affd361af993=QuadrangleData{area=13.185914067862386, perimeter=16.536631057245557}}
+23 дек. 2020 02:41:40,010 [main] INFO  ShapeFileReader - The file -> input_files/test_quadrangles_input.txt was read,	Result -> [1 2.4 -3.4 5 5.3 -7 8 5.4, 4 2.4 3.4 5 94aaaaaaa.3 7 8 1.4]
+23 дек. 2020 03:00:06,763 [main] INFO  QuadrangleFactory - Factory created
+23 дек. 2020 03:00:06,803 [main] INFO  QuadrangleValidator - This points -> [Point2D{x=3.0, y=3.0}, Point2D{x=3.0, y=7.0}, Point2D{x=7.0, y=7.0}, Point2D{x=7.0, y=3.0}] represent quadrangle
+23 дек. 2020 03:00:06,804 [main] INFO  QuadrangleFactory - Quadrangle -> Quadrangle {
+	quadrangleId = 816d9b54-4757-457d-bee7-98129eb30168,	points = [Point2D{x=3.0, y=3.0}, Point2D{x=3.0, y=7.0}, Point2D{x=7.0, y=7.0}, Point2D{x=7.0, y=3.0}]
+} was create

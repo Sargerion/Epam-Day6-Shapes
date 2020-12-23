@@ -1,0 +1,106 @@
+23 дек. 2020 01:53:16,932 [main] INFO  QuadrangleRepository - Quadrangle received Quadrangle {
+	quadrangleId = 601748d6-50a8-472d-8477-bebb1e03a832,	points = [Point2D{x=5.0, y=2.4}, Point2D{x=3.4, y=5.0}, Point2D{x=7.3, y=-7.0}, Point2D{x=8.0, y=0.4}]
+}
+23 дек. 2020 01:53:16,944 [main] INFO  QuadrangleRepository - Quadrangle received Quadrangle {
+	quadrangleId = 601748d6-50a8-472d-8477-bebb1e03a832,	points = [Point2D{x=5.0, y=2.4}, Point2D{x=3.4, y=5.0}, Point2D{x=7.3, y=-7.0}, Point2D{x=8.0, y=0.4}]
+}
+23 дек. 2020 01:53:16,946 [main] INFO  QuadrangleServiceImpl - Quadrangle -> Quadrangle {
+	quadrangleId = 601748d6-50a8-472d-8477-bebb1e03a832,	points = [Point2D{x=5.0, y=2.4}, Point2D{x=3.4, y=5.0}, Point2D{x=7.3, y=-7.0}, Point2D{x=8.0, y=0.4}]
+},	 perimeter -> 26.709297660505847
+23 дек. 2020 01:53:16,947 [main] INFO  QuadrangleServiceImpl - Quadrangle -> Quadrangle {
+	quadrangleId = 601748d6-50a8-472d-8477-bebb1e03a832,	points = [Point2D{x=5.0, y=2.4}, Point2D{x=3.4, y=5.0}, Point2D{x=7.3, y=-7.0}, Point2D{x=8.0, y=0.4}]
+},	 area -> 20.933146764174566
+23 дек. 2020 01:53:16,948 [main] INFO  QuadrangleRepository - Quadrangle received Quadrangle {
+	quadrangleId = 601748d6-50a8-472d-8477-bebb1e03a832,	points = [Point2D{x=5.0, y=2.4}, Point2D{x=3.4, y=5.0}, Point2D{x=7.3, y=-7.0}, Point2D{x=8.0, y=0.4}]
+}
+23 дек. 2020 01:53:16,949 [main] INFO  QuadrangleServiceImpl - Quadrangle -> Quadrangle {
+	quadrangleId = 601748d6-50a8-472d-8477-bebb1e03a832,	points = [Point2D{x=5.0, y=2.4}, Point2D{x=3.4, y=5.0}, Point2D{x=7.3, y=-7.0}, Point2D{x=8.0, y=0.4}]
+},	 perimeter -> 26.709297660505847
+23 дек. 2020 01:53:16,950 [main] INFO  Warehouse - Quadrangle's data with id->601748d6-50a8-472d-8477-bebb1e03a832 was put to warehouse successfully -> QuadrangleData{area=20.933146764174566, perimeter=26.709297660505847}
+23 дек. 2020 01:53:16,951 [main] INFO  QuadrangleRepository - Quadrangle received Quadrangle {
+	quadrangleId = 5d022a87-b37c-4e6a-84a4-390bf615efeb,	points = [Point2D{x=8.0, y=2.4}, Point2D{x=3.4, y=5.0}, Point2D{x=1.3, y=7.0}, Point2D{x=9.0, y=0.4}]
+}
+23 дек. 2020 01:53:16,951 [main] INFO  QuadrangleRepository - Quadrangle received Quadrangle {
+	quadrangleId = 5d022a87-b37c-4e6a-84a4-390bf615efeb,	points = [Point2D{x=8.0, y=2.4}, Point2D{x=3.4, y=5.0}, Point2D{x=1.3, y=7.0}, Point2D{x=9.0, y=0.4}]
+}
+23 дек. 2020 01:53:16,952 [main] INFO  QuadrangleServiceImpl - Quadrangle -> Quadrangle {
+	quadrangleId = 5d022a87-b37c-4e6a-84a4-390bf615efeb,	points = [Point2D{x=8.0, y=2.4}, Point2D{x=3.4, y=5.0}, Point2D{x=1.3, y=7.0}, Point2D{x=9.0, y=0.4}]
+},	 perimeter -> 20.56150480597113
+23 дек. 2020 01:53:16,952 [main] INFO  QuadrangleServiceImpl - Quadrangle -> Quadrangle {
+	quadrangleId = 5d022a87-b37c-4e6a-84a4-390bf615efeb,	points = [Point2D{x=8.0, y=2.4}, Point2D{x=3.4, y=5.0}, Point2D{x=1.3, y=7.0}, Point2D{x=9.0, y=0.4}]
+},	 area -> 6.427683691037213
+23 дек. 2020 01:53:16,953 [main] INFO  QuadrangleRepository - Quadrangle received Quadrangle {
+	quadrangleId = 5d022a87-b37c-4e6a-84a4-390bf615efeb,	points = [Point2D{x=8.0, y=2.4}, Point2D{x=3.4, y=5.0}, Point2D{x=1.3, y=7.0}, Point2D{x=9.0, y=0.4}]
+}
+23 дек. 2020 01:53:16,954 [main] INFO  QuadrangleServiceImpl - Quadrangle -> Quadrangle {
+	quadrangleId = 5d022a87-b37c-4e6a-84a4-390bf615efeb,	points = [Point2D{x=8.0, y=2.4}, Point2D{x=3.4, y=5.0}, Point2D{x=1.3, y=7.0}, Point2D{x=9.0, y=0.4}]
+},	 perimeter -> 20.56150480597113
+23 дек. 2020 01:53:16,955 [main] INFO  Warehouse - Quadrangle's data with id->5d022a87-b37c-4e6a-84a4-390bf615efeb was put to warehouse successfully -> QuadrangleData{area=6.427683691037213, perimeter=20.56150480597113}
+23 дек. 2020 01:53:51,234 [main] INFO  ShapeFileReader - The file -> input_files/quadrangles_input.txt was read,	Result -> [1 2.4 -3.4 5 5.3 -7 8 5.4, 4 2.4 3.4 5 9.3 7 8 1.4, 5 2.4 3.4 5 7.3 -7 8 0.4, 6 -2.4 3.4 5 3.3 7e 8 0.25, 7 2.4 3.erreqg4 5 8.3 7 8 0.4, 8 2.4 3.4 5 1.3 7 9 0.4]
+23 дек. 2020 01:53:51,253 [main] INFO  QuadrangleFactory - Factory created
+23 дек. 2020 01:53:51,259 [main] INFO  QuadrangleValidator - This points -> [Point2D{x=1.0, y=2.4}, Point2D{x=-3.4, y=5.0}, Point2D{x=5.3, y=-7.0}, Point2D{x=8.0, y=5.4}] represent quadrangle
+23 дек. 2020 01:53:51,401 [main] INFO  QuadrangleFactory - Quadrangle -> Quadrangle {
+	quadrangleId = 25679cbf-fcbf-4e3a-a5b8-066a20dd926a,	points = [Point2D{x=1.0, y=2.4}, Point2D{x=-3.4, y=5.0}, Point2D{x=5.3, y=-7.0}, Point2D{x=8.0, y=5.4}]
+} was create
+23 дек. 2020 01:53:51,402 [main] INFO  QuadrangleRepository - Quadrangle added to repository Quadrangle {
+	quadrangleId = 25679cbf-fcbf-4e3a-a5b8-066a20dd926a,	points = [Point2D{x=1.0, y=2.4}, Point2D{x=-3.4, y=5.0}, Point2D{x=5.3, y=-7.0}, Point2D{x=8.0, y=5.4}]
+}
+23 дек. 2020 01:53:51,403 [main] INFO  QuadrangleValidator - This points -> [Point2D{x=4.0, y=2.4}, Point2D{x=3.4, y=5.0}, Point2D{x=9.3, y=7.0}, Point2D{x=8.0, y=1.4}] represent quadrangle
+23 дек. 2020 01:53:51,403 [main] INFO  QuadrangleFactory - Quadrangle -> Quadrangle {
+	quadrangleId = 7a42d9cc-eefe-4d95-9ca5-379194803ae2,	points = [Point2D{x=4.0, y=2.4}, Point2D{x=3.4, y=5.0}, Point2D{x=9.3, y=7.0}, Point2D{x=8.0, y=1.4}]
+} was create
+23 дек. 2020 01:53:51,404 [main] INFO  QuadrangleRepository - Quadrangle added to repository Quadrangle {
+	quadrangleId = 7a42d9cc-eefe-4d95-9ca5-379194803ae2,	points = [Point2D{x=4.0, y=2.4}, Point2D{x=3.4, y=5.0}, Point2D{x=9.3, y=7.0}, Point2D{x=8.0, y=1.4}]
+}
+23 дек. 2020 01:53:51,405 [main] INFO  QuadrangleValidator - This points -> [Point2D{x=5.0, y=2.4}, Point2D{x=3.4, y=5.0}, Point2D{x=7.3, y=-7.0}, Point2D{x=8.0, y=0.4}] represent quadrangle
+23 дек. 2020 01:53:51,406 [main] INFO  QuadrangleFactory - Quadrangle -> Quadrangle {
+	quadrangleId = 3713c490-c435-4111-8995-f411db0960f5,	points = [Point2D{x=5.0, y=2.4}, Point2D{x=3.4, y=5.0}, Point2D{x=7.3, y=-7.0}, Point2D{x=8.0, y=0.4}]
+} was create
+23 дек. 2020 01:53:51,407 [main] INFO  QuadrangleRepository - Quadrangle added to repository Quadrangle {
+	quadrangleId = 3713c490-c435-4111-8995-f411db0960f5,	points = [Point2D{x=5.0, y=2.4}, Point2D{x=3.4, y=5.0}, Point2D{x=7.3, y=-7.0}, Point2D{x=8.0, y=0.4}]
+}
+23 дек. 2020 01:53:51,408 [main] INFO  QuadrangleValidator - This points -> [Point2D{x=8.0, y=2.4}, Point2D{x=3.4, y=5.0}, Point2D{x=1.3, y=7.0}, Point2D{x=9.0, y=0.4}] represent quadrangle
+23 дек. 2020 01:53:51,409 [main] INFO  QuadrangleFactory - Quadrangle -> Quadrangle {
+	quadrangleId = fe53adfc-f2f3-47d5-8822-7e17086694fe,	points = [Point2D{x=8.0, y=2.4}, Point2D{x=3.4, y=5.0}, Point2D{x=1.3, y=7.0}, Point2D{x=9.0, y=0.4}]
+} was create
+23 дек. 2020 01:53:51,410 [main] INFO  QuadrangleRepository - Quadrangle added to repository Quadrangle {
+	quadrangleId = fe53adfc-f2f3-47d5-8822-7e17086694fe,	points = [Point2D{x=8.0, y=2.4}, Point2D{x=3.4, y=5.0}, Point2D{x=1.3, y=7.0}, Point2D{x=9.0, y=0.4}]
+}
+23 дек. 2020 01:53:51,416 [main] INFO  Warehouse - Warehouse created
+23 дек. 2020 01:53:51,417 [main] INFO  QuadrangleRepository - Quadrangle received Quadrangle {
+	quadrangleId = 25679cbf-fcbf-4e3a-a5b8-066a20dd926a,	points = [Point2D{x=1.0, y=2.4}, Point2D{x=-3.4, y=5.0}, Point2D{x=5.3, y=-7.0}, Point2D{x=8.0, y=5.4}]
+}
+23 дек. 2020 01:53:51,418 [main] INFO  QuadrangleRepository - Quadrangle received Quadrangle {
+	quadrangleId = 25679cbf-fcbf-4e3a-a5b8-066a20dd926a,	points = [Point2D{x=1.0, y=2.4}, Point2D{x=-3.4, y=5.0}, Point2D{x=5.3, y=-7.0}, Point2D{x=8.0, y=5.4}]
+}
+23 дек. 2020 01:53:51,424 [main] INFO  QuadrangleServiceImpl - Quadrangle -> Quadrangle {
+	quadrangleId = 25679cbf-fcbf-4e3a-a5b8-066a20dd926a,	points = [Point2D{x=1.0, y=2.4}, Point2D{x=-3.4, y=5.0}, Point2D{x=5.3, y=-7.0}, Point2D{x=8.0, y=5.4}]
+},	 perimeter -> 40.23903689749604
+23 дек. 2020 01:53:51,424 [main] INFO  QuadrangleServiceImpl - Quadrangle -> Quadrangle {
+	quadrangleId = 25679cbf-fcbf-4e3a-a5b8-066a20dd926a,	points = [Point2D{x=1.0, y=2.4}, Point2D{x=-3.4, y=5.0}, Point2D{x=5.3, y=-7.0}, Point2D{x=8.0, y=5.4}]
+},	 area -> 85.9399604791886
+23 дек. 2020 01:53:51,425 [main] INFO  QuadrangleRepository - Quadrangle received Quadrangle {
+	quadrangleId = 25679cbf-fcbf-4e3a-a5b8-066a20dd926a,	points = [Point2D{x=1.0, y=2.4}, Point2D{x=-3.4, y=5.0}, Point2D{x=5.3, y=-7.0}, Point2D{x=8.0, y=5.4}]
+}
+23 дек. 2020 01:53:51,425 [main] INFO  QuadrangleServiceImpl - Quadrangle -> Quadrangle {
+	quadrangleId = 25679cbf-fcbf-4e3a-a5b8-066a20dd926a,	points = [Point2D{x=1.0, y=2.4}, Point2D{x=-3.4, y=5.0}, Point2D{x=5.3, y=-7.0}, Point2D{x=8.0, y=5.4}]
+},	 perimeter -> 40.23903689749604
+23 дек. 2020 01:53:51,426 [main] INFO  Warehouse - Quadrangle's data with id->25679cbf-fcbf-4e3a-a5b8-066a20dd926a was put to warehouse successfully -> QuadrangleData{area=85.9399604791886, perimeter=40.23903689749604}
+23 дек. 2020 01:53:51,427 [main] INFO  QuadrangleRepository - Quadrangle received Quadrangle {
+	quadrangleId = 7a42d9cc-eefe-4d95-9ca5-379194803ae2,	points = [Point2D{x=4.0, y=2.4}, Point2D{x=3.4, y=5.0}, Point2D{x=9.3, y=7.0}, Point2D{x=8.0, y=1.4}]
+}
+23 дек. 2020 01:53:51,427 [main] INFO  QuadrangleRepository - Quadrangle received Quadrangle {
+	quadrangleId = 7a42d9cc-eefe-4d95-9ca5-379194803ae2,	points = [Point2D{x=4.0, y=2.4}, Point2D{x=3.4, y=5.0}, Point2D{x=9.3, y=7.0}, Point2D{x=8.0, y=1.4}]
+}
+23 дек. 2020 01:53:51,427 [main] INFO  QuadrangleServiceImpl - Quadrangle -> Quadrangle {
+	quadrangleId = 7a42d9cc-eefe-4d95-9ca5-379194803ae2,	points = [Point2D{x=4.0, y=2.4}, Point2D{x=3.4, y=5.0}, Point2D{x=9.3, y=7.0}, Point2D{x=8.0, y=1.4}]
+},	 perimeter -> 18.77011863003386
+23 дек. 2020 01:53:51,428 [main] INFO  QuadrangleServiceImpl - Quadrangle -> Quadrangle {
+	quadrangleId = 7a42d9cc-eefe-4d95-9ca5-379194803ae2,	points = [Point2D{x=4.0, y=2.4}, Point2D{x=3.4, y=5.0}, Point2D{x=9.3, y=7.0}, Point2D{x=8.0, y=1.4}]
+},	 area -> 20.13690886059133
+23 дек. 2020 01:53:51,428 [main] INFO  QuadrangleRepository - Quadrangle received Quadrangle {
+	quadrangleId = 7a42d9cc-eefe-4d95-9ca5-379194803ae2,	points = [Point2D{x=4.0, y=2.4}, Point2D{x=3.4, y=5.0}, Point2D{x=9.3, y=7.0}, Point2D{x=8.0, y=1.4}]
+}
+23 дек. 2020 01:53:51,428 [main] INFO  QuadrangleServiceImpl - Quadrangle -> Quadrangle {
+	quadrangleId = 7a42d9cc-eefe-4d95-9ca5-379194803ae2,	points = [Point2D{x=4.0, y=2.4}, Point2D{x=3.4, y=5.0}, Point2D{x=9.3, y=7.0}, Point2D{x=8.0, y=1.4}]
+},	 perimeter -> 18.77011863003386
