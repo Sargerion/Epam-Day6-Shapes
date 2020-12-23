@@ -8,7 +8,7 @@ import java.util.List;
 
 public class ToCreateQuadrangleValidator {
 
-    public static final String IS_POINT_REGEX = "(^-?(\\d*)(\\.?\\d*))";
+    public static final String IS_POINT_REGEX = "(-?(\\d*)(\\.?\\d*))";
     public static final String FOR_SPLIT_REGEX = "\\s";
     public static final int CORRECT_LENGTH = 8;
 
